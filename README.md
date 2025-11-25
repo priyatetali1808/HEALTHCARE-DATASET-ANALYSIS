@@ -13,7 +13,9 @@ Convert data types (e.g., dates, numeric values).
 Perform basic statistical analysis.
 Visualize trends and patterns in the dataset.
 
-Rows: 55,500 before cleaning and 50,000 after cleaning
+Rows: 55,500 before cleaning 
+        and 
+      50,000 after cleaning
 Description: Contains 15 columns including patient details, admission/discharge dates, medical conditions, and billing information.
 
 Steps Covered in This Notebook
